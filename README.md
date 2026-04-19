@@ -1,25 +1,26 @@
-Project: Sales Report in Microsoft Power BI
+Project: Sales & Inventory Report in Microsoft Power BI
 
-1.Developed an interactive dashboard for comprehensive sales performance analysis
 
-2.Analyzed revenue (net, tax, gross) across monthly, quarterly, and yearly periods
+1.Developed an interactive dashboard to support analysis of sales performance and inventory movements
 
-3.Calculated and visualized profit margins based on profit data
+2.Combined and transformed data from multiple sources to enable end-to-end business insights
 
-4.Implemented time-based analytics: YTD, MAT (rolling 12 months), and year-over-year (YoY) comparisons
+3.Monitored key KPIs related to revenue, profitability, and operational efficiency
 
-5.Identified top-performing products by revenue and sales volume
+4.Enabled analysis of trends over time (e.g., monthly, yearly, and rolling periods)
 
-6.Conducted sales analysis by categories, brands, and product groups
+5.Provided insights into product performance, identifying top-selling items and key trends
 
-7.Evaluated sales team performance (revenue, number of transactions, salesperson ranking)
+6.Supported evaluation of sales team effectiveness and overall business performance
 
-8.Performed geographic sales analysis (countries, regions, cities) using map visualizations
+7.Delivered visibility into inventory flows and stock movements, including tracking of inbound, outbound, and internal transactions
 
-9.Segmented customers and identified key clients generating the highest revenue
+8.Enabled analysis of supply chain activity, including supplier and customer impact
 
-10.Implemented dynamic filtering (date, customer, product, region, employee)
+9.Incorporated geographical analysis to compare performance across different regions and locations
 
-11.Designed clear and effective visualizations (charts, tables, KPIs) to support decision-making
+10.Designed intuitive visualizations and dashboards to facilitate data-driven decision-making
 
-12.Enabled data export to Excel for further analysis
+11.Implemented interactive filters allowing users to explore data across multiple dimensions
+
+12.Ensured the report supports business reporting needs and allows further analysis through data export
